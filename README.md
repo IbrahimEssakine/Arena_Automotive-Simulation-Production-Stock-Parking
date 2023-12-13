@@ -21,9 +21,13 @@ From raw materials procurement to inventory control, witness the strategic orche
 
 # Key Features:
 Demand forecasting for accurate stock predictions.
+
 Automated replenishment based on reorder points.
+
 Inventory tracking and real-time stock level monitoring.
+
 Cost optimization through efficient stock turnover.
+
 Risk assessment and contingency planning for supply chain disruptions.
 
 # Simulation de Parkingage des Automobiles (Automobile Parking Simulation):
@@ -33,7 +37,11 @@ This simulation encompasses the strategic allocation of parking spaces for raw m
 
 # Key Features:
 Dynamic parking space allocation based on production stages.
+
 Efficient movement of vehicles within the facility.
+
 Automated parking assignment and retrieval systems.
+
 Accessibility optimization for maintenance and inspections.
+
 Integration with production scheduling to align parking needs with workflow.
