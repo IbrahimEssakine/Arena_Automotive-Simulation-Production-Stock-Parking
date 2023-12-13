@@ -38,7 +38,7 @@ Risk assessment and contingency planning for supply chain disruptions.
 # Simulation de Parkingage des Automobiles (Automobile Parking Simulation):
 Experience the intricacies of managing parking logistics within an automotive production facility. This simulation encompasses the strategic allocation of parking spaces for raw materials, work-in-progress vehicles, and finished products, ensuring streamlined operations and accessibility.
 
-![image](https://github.com/IbrahimEssakine/AutoProdSim-Integrated_Production-Parking_Simulation/assets/103626975/2f6c948c-6c4b-4c0a-98b9-8772cd250e90)
+![image](https://github.com/IbrahimEssakine/AutoArenaSim_-_A_Comprehensive_Simulation_Suite_for_Automotive_Production-_Stock_Management-_and_Par/assets/103626975/1a83a3a3-5b14-468c-a492-d9d760070353)
 
 ![image](https://github.com/IbrahimEssakine/AutoProdSim-Integrated_Production-Parking_Simulation/assets/103626975/d5f2cd1a-096d-4a12-b8ca-345e6a0eb21d)
 
