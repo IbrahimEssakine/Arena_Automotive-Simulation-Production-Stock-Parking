@@ -1,5 +1,11 @@
+
+![image](https://github.com/IbrahimEssakine/AutoProdSim-Integrated_Production-Parking_Simulation/assets/103626975/99e411c0-eeab-46cd-b997-ceafd0407af1)
+
 # Management de Production (Production Management):
 # Overview: 
+
+![image](https://github.com/IbrahimEssakine/AutoProdSim-Integrated_Production-Parking_Simulation/assets/103626975/d056de3a-1b6b-45fe-ac80-c0f75ff629e1)
+
 Dive into the heart of manufacturing efficiency with a detailed simulation of production management.
 Explore the entire production lifecycle, from raw materials to finished goods, optimizing resource utilization, minimizing downtime, and ensuring seamless workflow.
 
@@ -16,6 +22,9 @@ Adaptive production adjustments based on demand fluctuations.
 
 # Management de Stock (Stock Management):
 # Overview: 
+
+![image](https://github.com/IbrahimEssakine/AutoProdSim-Integrated_Production-Parking_Simulation/assets/103626975/18d37b54-c8b0-4268-b141-acc5f4143df4)
+
 Uncover the art of maintaining an optimal balance between supply and demand with our stock management simulation. 
 From raw materials procurement to inventory control, witness the strategic orchestration of stock levels to meet production needs while minimizing holding costs.
 
@@ -34,6 +43,10 @@ Risk assessment and contingency planning for supply chain disruptions.
 # Overview: 
 Experience the intricacies of managing the parking logistics within an automotive production facility. 
 This simulation encompasses the strategic allocation of parking spaces for raw materials, work-in-progress vehicles, and finished products, ensuring streamlined operations and accessibility.
+
+![image](https://github.com/IbrahimEssakine/AutoProdSim-Integrated_Production-Parking_Simulation/assets/103626975/2f6c948c-6c4b-4c0a-98b9-8772cd250e90)
+
+![image](https://github.com/IbrahimEssakine/AutoProdSim-Integrated_Production-Parking_Simulation/assets/103626975/d5f2cd1a-096d-4a12-b8ca-345e6a0eb21d)
 
 # Key Features:
 Dynamic parking space allocation based on production stages.
