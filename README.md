@@ -6,7 +6,7 @@ Embark on a journey through manufacturing excellence with AutoArenaSim, a powerf
 # Management de Production (Production Management):
 Dive into the heart of manufacturing efficiency with a detailed simulation of production management. Explore the entire production lifecycle, from raw materials to finished goods, optimizing resource utilization, minimizing downtime, and ensuring a seamless workflow.
 
-![image](https://github.com/IbrahimEssakine/AutoProdSim-Integrated_Production-Parking_Simulation/assets/103626975/d056de3a-1b6b-45fe-ac80-c0f75ff629e1)
+![image](https://github.com/IbrahimEssakine/AutoProdSim-Integrated_Production-Parking_Simulation/assets/103626975/18d37b54-c8b0-4268-b141-acc5f4143df4)
 
 # Key Features:
 Real-time production scheduling and monitoring.
@@ -22,7 +22,7 @@ Adaptive production adjustments based on demand fluctuations.
 # Management de Stock (Stock Management):
 Uncover the art of maintaining an optimal balance between supply and demand with our stock management simulation. From raw materials procurement to inventory control, witness the strategic orchestration of stock levels to meet production needs while minimizing holding costs.
 
-![image](https://github.com/IbrahimEssakine/AutoProdSim-Integrated_Production-Parking_Simulation/assets/103626975/18d37b54-c8b0-4268-b141-acc5f4143df4)
+![image](https://github.com/IbrahimEssakine/AutoProdSim-Integrated_Production-Parking_Simulation/assets/103626975/d056de3a-1b6b-45fe-ac80-c0f75ff629e1)
 
 # Key Features:
 Demand forecasting for accurate stock predictions.
