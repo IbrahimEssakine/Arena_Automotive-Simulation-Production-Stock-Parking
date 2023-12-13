@@ -35,6 +35,8 @@ Cost optimization through efficient stock turnover.
 
 Risk assessment and contingency planning for supply chain disruptions.
 
+https://github.com/IbrahimEssakine/Arena_Automotive-Simulation-Production-Stock-Parking/assets/103626975/020f92b7-d130-4ecc-a30f-b83883fb28ad
+
 # Simulation de Parkingage des Automobiles (Automobile Parking Simulation):
 Experience the intricacies of managing parking logistics within an automotive production facility. This simulation encompasses the strategic allocation of parking spaces for raw materials, work-in-progress vehicles, and finished products, ensuring streamlined operations and accessibility.
 
@@ -60,3 +62,5 @@ Automated parking assignment and retrieval systems.
 Accessibility optimization for maintenance and inspections.
 
 Integration with production scheduling to align parking needs with workflow.
+
+https://github.com/IbrahimEssakine/Arena_Automotive-Simulation-Production-Stock-Parking/assets/103626975/e6a48518-f1bc-4611-95d2-d60cfd472985
