@@ -1,5 +1,5 @@
 # Description:
-Embark on a journey through manufacturing excellence with AutoArenaSim, a powerful simulation suite leveraging Arena for integrated management of production, stock, and parking logistics in the automotive industry.
+Embark on a journey through manufacturing excellence with Arena Rockwell Automation, a powerful simulation suite leveraging Arena for integrated management of production, stock, and parking logistics in the automotive industry.
 
 ![image](https://github.com/IbrahimEssakine/AutoProdSim-Integrated_Production-Parking_Simulation/assets/103626975/99e411c0-eeab-46cd-b997-ceafd0407af1)
 
